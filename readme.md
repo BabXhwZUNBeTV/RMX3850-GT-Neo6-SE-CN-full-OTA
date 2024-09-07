@@ -1,3 +1,10 @@
+
+https://gauss-componentotacostmanual-cn.allawnfs.com/
+替换成
+https://gauss-otacostmanual-cn.allawnfs.com/
+
+
+
 RMX3850_11.A.34_0340_202407201118
 
 RMX3850_14.0.1.609(CN01)
