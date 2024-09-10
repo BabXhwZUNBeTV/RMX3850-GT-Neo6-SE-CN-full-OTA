@@ -18,7 +18,7 @@ RMX3850_11.A.34_0340_202407201118
 
 RMX3850_14.0.1.609(CN01)
 
-[https://gauss-componentotacostmanual-cn.allawnfs.com/remove-3eceb7f244c55e055d4dde3dd7a986f2/component-ota/24/07/22/978f347edd534e68bfdba9b6aa74c953.zip](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-3eceb7f244c55e055d4dde3dd7a986f2/component-ota/24/07/22/978f347edd534e68bfdba9b6aa74c953.zip "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-3eceb7f244c55e055d4dde3dd7a986f2/component-ota/24/07/22/978f347edd534e68bfdba9b6aa74c953.zip")
+[https://gauss-otacostmanual-cn.allawnfs.com/remove-3eceb7f244c55e055d4dde3dd7a986f2/component-ota/24/07/22/978f347edd534e68bfdba9b6aa74c953.zip](https://gauss-otacostmanual-cn.allawnfs.com/remove-3eceb7f244c55e055d4dde3dd7a986f2/component-ota/24/07/22/978f347edd534e68bfdba9b6aa74c953.zip "https://gauss-otacostmanual-cn.allawnfs.com/remove-3eceb7f244c55e055d4dde3dd7a986f2/component-ota/24/07/22/978f347edd534e68bfdba9b6aa74c953.zip")
 
 
 —————————————————————————————————————————————————————
@@ -27,7 +27,7 @@ RMX3850_11.A.33_0330_202406212356
 
 RMX3850_14.0.1.608(CN01)
 
-[https://gauss-componentotacostmanual-cn.allawnfs.com/remove-4b9f010ddeb824911d7af1addb012a9e/component-ota/24/06/23/3a261158814d4bbc8df31a899d09fe07.zip](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-4b9f010ddeb824911d7af1addb012a9e/component-ota/24/06/23/3a261158814d4bbc8df31a899d09fe07.zip "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-4b9f010ddeb824911d7af1addb012a9e/component-ota/24/06/23/3a261158814d4bbc8df31a899d09fe07.zip")
+[https://gauss-otacostmanual-cn.allawnfs.com/remove-4b9f010ddeb824911d7af1addb012a9e/component-ota/24/06/23/3a261158814d4bbc8df31a899d09fe07.zip](https://gauss-otacostmanual-cn.allawnfs.com/remove-4b9f010ddeb824911d7af1addb012a9e/component-ota/24/06/23/3a261158814d4bbc8df31a899d09fe07.zip "https://gauss-otacostmanual-cn.allawnfs.com/remove-4b9f010ddeb824911d7af1addb012a9e/component-ota/24/06/23/3a261158814d4bbc8df31a899d09fe07.zip")
 
 
 
