@@ -3,6 +3,12 @@ https://gauss-componentotacostmanual-cn.allawnfs.com/
 替换成
 https://gauss-otacostmanual-cn.allawnfs.com/
 
+RMX3850_11.A.35_0350_202408291654
+
+RMX3850_14.0.1.610(CN01)
+
+[https://gauss-otacostmanual-cn.allawnfs.com/remove-3b4f0b6910c74129566f604530e7a06f/component-ota/24/09/03/9220fc46964149cc9cfeeb6c35fbd56d.zip](https://gauss-otacostmanual-cn.allawnfs.com/remove-3b4f0b6910c74129566f604530e7a06f/component-ota/24/09/03/9220fc46964149cc9cfeeb6c35fbd56d.zip "https://gauss-otacostmanual-cn.allawnfs.com/remove-3b4f0b6910c74129566f604530e7a06f/component-ota/24/09/03/9220fc46964149cc9cfeeb6c35fbd56d.zip")
+
 
 
 RMX3850_11.A.34_0340_202407201118
