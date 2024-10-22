@@ -3,13 +3,18 @@ https://gauss-componentotacostmanual-cn.allawnfs.com/
 替换成
 https://gauss-otacostmanual-cn.allawnfs.com/
 
+RMX3850_11.A.36_0360_202410102153
+
+RMX3850_14.0.1.611(CN01)
+
+
 
 
 RMX3850_11.A.35_0350_202408291654
 
 RMX3850_14.0.1.610(CN01)
 
-[https://gauss-otacostmanual-cn.allawnfs.com/remove-3b4f0b6910c74129566f604530e7a06f/component-ota/24/09/03/9220fc46964149cc9cfeeb6c35fbd56d.zip](https://gauss-otacostmanual-cn.allawnfs.com/remove-3b4f0b6910c74129566f604530e7a06f/component-ota/24/09/03/9220fc46964149cc9cfeeb6c35fbd56d.zip "https://gauss-otacostmanual-cn.allawnfs.com/remove-3b4f0b6910c74129566f604530e7a06f/component-ota/24/09/03/9220fc46964149cc9cfeeb6c35fbd56d.zip")
+[https://gauss-otacostmanual-cn.allawnfs.com/remove-8e3bde7d6556db67e25ea3aa6c0c463e/component-ota/24/10/13/dfafc3eda1c5416ca8c6c32bd86b75c4.zip](https://gauss-otacostmanual-cn.allawnfs.com/remove-8e3bde7d6556db67e25ea3aa6c0c463e/component-ota/24/10/13/dfafc3eda1c5416ca8c6c32bd86b75c4.zip "https://gauss-otacostmanual-cn.allawnfs.com/remove-8e3bde7d6556db67e25ea3aa6c0c463e/component-ota/24/10/13/dfafc3eda1c5416ca8c6c32bd86b75c4.zip")
 
 —————————————————————————————————————————————————————
 
