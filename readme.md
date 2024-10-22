@@ -7,7 +7,7 @@ RMX3850_11.A.36_0360_202410102153
 
 RMX3850_14.0.1.611(CN01)
 
-
+[https://gauss-otacostmanual-cn.allawnfs.com/remove-8e3bde7d6556db67e25ea3aa6c0c463e/component-ota/24/10/13/dfafc3eda1c5416ca8c6c32bd86b75c4.zip](https://gauss-otacostmanual-cn.allawnfs.com/remove-8e3bde7d6556db67e25ea3aa6c0c463e/component-ota/24/10/13/dfafc3eda1c5416ca8c6c32bd86b75c4.zip "https://gauss-otacostmanual-cn.allawnfs.com/remove-8e3bde7d6556db67e25ea3aa6c0c463e/component-ota/24/10/13/dfafc3eda1c5416ca8c6c32bd86b75c4.zip")
 
 
 RMX3850_11.A.35_0350_202408291654
