@@ -1,3 +1,6 @@
+RUI6 回退到 RUI5 的回退包
+https://rbp01.realme.net/GT_Neo6_SE/RMX3850_11_A_OTA_0360_all_ZKHVlX_10010111.zip
+
 
 https://gauss-componentotacostmanual-cn.allawnfs.com/
 替换成
