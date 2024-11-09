@@ -1,3 +1,12 @@
+
+RMX3850_15.0.0.200(CN01)
+
+RMX3850_11.C.15_1150_202411021422
+
+https://gauss-otacostmanual-cn.allawnfs.com/remove-8ed5aef0695aa393074070241443ac09/component-ota/24/11/03/f09360a46ee44c4ea510d5b87474857c.zip
+
+
+
 RUI6 回退到 RUI5 的回退包
 https://rbp01.realme.net/GT_Neo6_SE/RMX3850_11_A_OTA_0360_all_ZKHVlX_10010111.zip
 
