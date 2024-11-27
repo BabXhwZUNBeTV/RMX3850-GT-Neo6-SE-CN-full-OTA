@@ -1,3 +1,11 @@
+Rui 6.0 内测版
+RMX3850_11.C.17_1170_202411182240
+RMX3850_15.0.0.310(CN01)
+
+https://gauss-otacostmanual-cn.allawnfs.com/remove-cd36a30e9cba2060017e3e9bd97d7cfd/component-ota/24/11/19/f18f6c6dcdc94e9f8168cc296ea87dd0.zip
+
+
+
 
 RMX3850_15.0.0.200(CN01)
 
