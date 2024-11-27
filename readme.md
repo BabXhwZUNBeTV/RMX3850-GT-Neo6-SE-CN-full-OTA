@@ -1,3 +1,10 @@
+ RMX3850_15.0.0.320(CN01)
+
+
+https://gauss-otacostauto-cn.allawnfs.com/remove-b7691869303802a7a1a8b5bf3c475ac4/component-ota/24/11/27/dc7ef74ef881446dba8eeddee81a38ff.zip
+
+
+
 Rui 6.0 内测版
 RMX3850_11.C.17_1170_202411182240
 RMX3850_15.0.0.310(CN01)
