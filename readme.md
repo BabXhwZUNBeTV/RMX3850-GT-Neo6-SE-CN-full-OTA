@@ -6,7 +6,7 @@ https://gauss-otacostauto-cn.allawnfs.com/remove-b7691869303802a7a1a8b5bf3c475ac
 
 
 
-Rui 6.0 内测版
+realme UI 6.0 内测版
 RMX3850_11.C.17_1170_202411182240
 RMX3850_15.0.0.310(CN01)
 
@@ -23,7 +23,7 @@ https://gauss-otacostmanual-cn.allawnfs.com/remove-8ed5aef0695aa393074070241443a
 
 
 
-RUI6 回退到 RUI5 的回退包
+realme UI 6 回退到 realme UI 5 的回退包
 https://rbp01.realme.net/GT_Neo6_SE/RMX3850_11_A_OTA_0360_all_ZKHVlX_10010111.zip
 
 
