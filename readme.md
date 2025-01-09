@@ -1,3 +1,8 @@
+RMX3850 realme UI 6.0 正式版
+RMX3850_15.0.0.420(CN01)
+https://gauss-componentotacostmanual-cn.allawnfs.com/remove-1de4538aad6f8049d066cfe09904e394/component-ota/24/12/31/a8faef1f354746318a2dd2ad0cec3a49.zip
+
+
 #RMX3850 realme UI 6.0 正式版
  RMX3850_15.0.0.320(CN01)
 
@@ -27,6 +32,7 @@ realme UI 6 回退到 realme UI 5 的回退包
 https://rbp01.realme.net/GT_Neo6_SE/RMX3850_11_A_OTA_0360_all_ZKHVlX_10010111.zip
 
 
+如果下载不了就把 或者换回来
 https://gauss-componentotacostmanual-cn.allawnfs.com/
 替换成
 https://gauss-otacostmanual-cn.allawnfs.com/
