@@ -1,4 +1,8 @@
 RMX3850 realme UI 6.0 正式版
+RMX3850_15.0.0.430(CN01)
+
+https://gauss-opexcostauto-cn.allawnfs.com/remove-cc46edfd25b4e76873391028a3cc2268/component-ota/25/01/13/34f319c105e44a1184e8d4a2c435ccb2.zip
+
 RMX3850_15.0.0.420(CN01)
 
 隔三差五就换服务器的，以前的下载不了就换成 https://gauss-opexcostauto-cn.allawnfs.com
