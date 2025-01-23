@@ -1,4 +1,12 @@
 RMX3850 realme UI 6.0 正式版
+
+RMX3850_15.0.0.450(CN01)
+
+https://gauss-otacostmanual-cn.allawnfs.com/remove-7e5e3368ad9cbfff91e687d90c331ddf/component-ota/25/01/21/60e02a85cd7c45b9ab2626ce0e746d95.zip
+
+
+RMX3850 realme UI 6.0 正式版
+
 RMX3850_15.0.0.430(CN01)
 
 https://gauss-opexcostauto-cn.allawnfs.com/remove-cc46edfd25b4e76873391028a3cc2268/component-ota/25/01/13/34f319c105e44a1184e8d4a2c435ccb2.zip
