@@ -1,3 +1,7 @@
+620
+
+https://gauss-opexcostmanual-cn.allawnfs.com/remove-b93aca6c3dde8f3226f50fba1b4d7261/component-ota/25/03/05/a08fc334309640c3927de33045811976.zip
+
 
 RMX3850 realme UI 6.0 正式版
 
