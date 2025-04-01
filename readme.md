@@ -10,7 +10,8 @@ RMX3850_15.0.0.610(CN01)
 https://gauss-opexcostmanual-cn.allawnfs.com/remove-5e37da2f24744ce2e365cc1c16760cbf/component-ota/25/02/24/a9318eb670ce4337b9101ba9c245e94e.zip
 
 
-下载方式：用 ariac aria2c.exe  -x16 -s16 -j5 --file-allocation=none https://gauss-otacostmanual-cn.allawnfs.com/remove-7e5e3368ad9cbfff91e687d90c331ddf/component-ota/25/01/21/60e02a85cd7c45b9ab2626ce0e746d95.zip
+下载方式：用 aria2c 
+aria2c.exe -x16 -s16 -j5 --file-allocation=none https://gauss-otacostmanual-cn.allawnfs.com/remove-7e5e3368ad9cbfff91e687d90c331ddf/component-ota/25/01/21/60e02a85cd7c45b9ab2626ce0e746d95.zip
 
 
 RMX3850 realme UI 6.0 正式版
