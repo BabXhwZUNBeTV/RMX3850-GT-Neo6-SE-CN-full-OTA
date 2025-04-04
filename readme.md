@@ -1,4 +1,13 @@
-620
+下载方式：用 aria2c 
+aria2c.exe -x16 -s16 -j5 --file-allocation=none https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b57676b75bec6fe5fa59ccf84c17ed77/component-ota/25/03/25/d159a035d9d340a5a121582006178265.zip
+
+
+RMX3850_15.0.0.700(CN01)
+
+https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b57676b75bec6fe5fa59ccf84c17ed77/component-ota/25/03/25/d159a035d9d340a5a121582006178265.zip
+
+
+RMX3850_15.0.0.620(CN01)
 
 https://gauss-opexcostmanual-cn.allawnfs.com/remove-b93aca6c3dde8f3226f50fba1b4d7261/component-ota/25/03/05/a08fc334309640c3927de33045811976.zip
 
@@ -11,7 +20,7 @@ https://gauss-opexcostmanual-cn.allawnfs.com/remove-5e37da2f24744ce2e365cc1c1676
 
 
 下载方式：用 aria2c 
-aria2c.exe -x16 -s16 -j5 --file-allocation=none https://gauss-otacostmanual-cn.allawnfs.com/remove-7e5e3368ad9cbfff91e687d90c331ddf/component-ota/25/01/21/60e02a85cd7c45b9ab2626ce0e746d95.zip
+aria2c.exe -x16 -s16 -j5 --file-allocation=none https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b57676b75bec6fe5fa59ccf84c17ed77/component-ota/25/03/25/d159a035d9d340a5a121582006178265.zip
 
 
 RMX3850 realme UI 6.0 正式版
