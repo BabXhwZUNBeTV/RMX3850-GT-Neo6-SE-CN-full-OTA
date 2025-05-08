@@ -1,3 +1,9 @@
+
+15.0.0.720
+https://gauss-compotacostauto-cn.allawnfs.com/remove-66d49cdde01778ba622cb652f5b64848/component-ota/25/05/07/9c0ff6063a414f20b725be008e237ad0.zip
+
+
+
 Use aria2c 
 
 aria2c -x16 -s16 -j5 --file-allocation=none https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b57676b75bec6fe5fa59ccf84c17ed77/component-ota/25/03/25/d159a035d9d340a5a121582006178265.zip
